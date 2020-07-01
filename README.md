@@ -9,8 +9,7 @@ _`Début de formation le 20/04/2020`_
 * LinkedIn: [@Thierry Laval](https://www.linkedin.com/in/thierry-laval)
 
 ***
-## 📎 Projet 4 - Optimisez le site web existant "La chouette agence"
-![left 100%](./img/la-chouette-agence.png)
+## 📎 TITRE TITRE
 ***
 ### Optimiser le SEO d'un site
 
