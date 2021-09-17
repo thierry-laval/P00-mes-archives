@@ -11,7 +11,7 @@
 
 ### 📎 Mes archives
 
-<img src="https://media3.gmgroup.be/00/17/66/07.gif" width="324" height="324">
+<img src="https://media3.gmgroup.be/00/17/66/07.gif" height="324">
 
 _`Début du projet le 01/01/1999`_
 
