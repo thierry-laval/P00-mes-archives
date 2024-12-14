@@ -31,4 +31,14 @@ _`Début du projet le 01/01/1999`_
 
 ***
 
-&hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+### &hearts;&nbsp;&nbsp;&nbsp;&nbsp;Love Markdown
+
+Donnez une ⭐️ &nbsp;si ce projet vous plaît !
+
+<span style="font-family:Papyrus; font-size:4em;">FAN DE GITHUB !</span>
+
+<!-- [This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
+
+<a href="url"><img src="https://github.com/thierry-laval/P00-mes-archives/blob/master/images/octocat-oley.png" height="300"></a>
+
+**[⬆ Retour en haut](#auteur)** <br>
